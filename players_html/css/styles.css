@@ -1,0 +1,30 @@
+.start{
+  /* background-image: url("https://media.istockphoto.com/photos/sport-background-green-field-in-soccer-stadium-ready-for-game-in-the-picture-id1320104418?b=1&k=20&m=1320104418&s=170667a&w=0&h=-INWYfpOlMFID5L8LlOCgoZo1AblGc8Ebi49xG6JkIw="); */
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height:600px;
+}
+
+.icon{
+  position: relative;
+  left : 250px;
+    height:500px;
+}
+
+.card{
+  position: absolute;
+  top: 10px;
+  left : 20px;
+  z-index :1;
+}
+
+.two{
+  position: absolute;
+  top: 10px;
+  left: 300px;
+
+  z-index :1;
+}
