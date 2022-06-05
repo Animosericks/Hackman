@@ -1,0 +1,25 @@
+#intro{
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+.one{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.two{
+  position : absolute;
+  top: 40px;
+  left: 10px;
+}
+
+.three{
+  position: absolute;
+  top: 10px;
+  left: 200px;
+}
